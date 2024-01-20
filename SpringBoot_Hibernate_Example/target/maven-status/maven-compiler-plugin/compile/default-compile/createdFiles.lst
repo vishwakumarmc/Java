@@ -1,0 +1,5 @@
+com\onlinetutorialspoint\model\Person.class
+com\onlinetutorialspoint\config\DBConfiguration.class
+com\onlinetutorialspoint\Application.class
+com\onlinetutorialspoint\dao\PersonDAO.class
+com\onlinetutorialspoint\controller\PersonController.class
